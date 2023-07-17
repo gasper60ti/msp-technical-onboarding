@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pcBackground.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Graphic design and motion graphics projects 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "A set of graphical projects aimed to boost the marketing side of the clients.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "NutriBoost!🌟",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Project manager and front-end dev in the making of an e-commerce website for dietary and orthopedic nutrition products.",
+    url: "https://www.linkedin.com/posts/nasreddine-fliti-219193205_nutriboostlinkedinpost-activity-7078698156040835073-wE61?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "My Resume Site",
+    title: "S9ILLO",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Contribution to the realization of a plant watering system.",
+    url: "https://www.linkedin.com/posts/nasreddine-fliti-219193205_react-github-team-activity-6983682662125174784-ToUQ?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "YouTube Channel",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My Youtube channel where I do some Tech content creation.",
+    url: "https://www.youtube.com/channel/UCRtFaLerrGJDwXTePHz3zXA",
   },
 ];
 

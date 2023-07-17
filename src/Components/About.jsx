@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/kbBackground.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,17 +24,17 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a third year engineering student at the higher school of computer science (Sidi Bel Abbes Algeria), and I'm interrested in software engineering and project management. For the moment Im the marketing manager at CSE Club Scientifique de l'Esi and a hard working perfection driven video making freelancer, and Im happy to colaborate in any interesting project";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Web developement",
+  "Project management",
+  "Video editing",
+  "Motion graphics",
   "Mobile user interfaces",
   "Graphic design",
 ];
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my software dev experience I continually look for better ways to make tech accessible by all.";
 
 const About = () => {
   return (
